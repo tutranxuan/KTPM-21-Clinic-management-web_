@@ -74,3 +74,4 @@ Tính năng chung cho cả bác sĩ và bệnh nhân
 - Đăng bài viết chia sẻ về sức khỏe, kiến thức, ...
 ## Video demo
 
+https://youtu.be/2jsDt6EmWVo
